@@ -23,7 +23,7 @@
   <a href="mailto:phosphorus.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://vk.com/PhosFactum"><img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white"/></a>
   <a href="https://discordapp.com/users/.to.be.lonest"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://spb.hh.ru/resume885fc55cff1099384c0039ed1f4a7a4a393955?hhtmFrom=resume_list"><img src="https://img.shields.io/badge/HeadHunter-FF5E00?style=for-the-badge&logo=headhunter&logoColor=white"/></a>
+  <a href="https://spb.hh.ru/resume/885fc55cff1099384c0039ed1f4a7a4a393955"><img src="https://img.shields.io/badge/HeadHunter-FF5E00?style=for-the-badge&logo=headhunter&logoColor=white"/></a>
 </p>
 
 <!-- 5. 👨‍💻 About me -->
